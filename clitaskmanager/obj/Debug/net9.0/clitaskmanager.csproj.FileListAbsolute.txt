@@ -1,0 +1,14 @@
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.AssemblyInfoInputs.cache
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.AssemblyInfo.cs
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.csproj.CoreCompileInputs.cache
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\bin\Debug\net9.0\clitaskmanager.exe
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\bin\Debug\net9.0\clitaskmanager.deps.json
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\bin\Debug\net9.0\clitaskmanager.runtimeconfig.json
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\bin\Debug\net9.0\clitaskmanager.dll
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\bin\Debug\net9.0\clitaskmanager.pdb
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.dll
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\refint\clitaskmanager.dll
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.pdb
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\clitaskmanager.genruntimeconfig.cache
+C:\Users\aidan\Documents\Projects\cliTaskManager\clitaskmanager\obj\Debug\net9.0\ref\clitaskmanager.dll
